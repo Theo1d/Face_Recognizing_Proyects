@@ -1,8 +1,15 @@
 # Face Recognition
 
-In this repository, we´ll be using multiple libraries in order to locate a face and do identify it on real time using any videocamera. In this particulary repo, we´re going to train a k-nearest-neighbors (KNN) predictive algorithm for face recognition.
-For example, this code may be use to identify and confirm if a person entering a building is authorized to enter, or if it´s a person on the "black list"
+In this repository, we´ll be using multiple libraries in order to locate a face and  identify it on real time using any videocamera. Specifically, this repository focuses on training a **k-nearest-neighbors (KNN)** predictive algorithm for face recognition.
 
+## Use Case Examples  
+Imagine a security system at the entrance of a building:
+
+- If the algorithm recognizes the person as authorized, access is granted.
+
+- If the individual matches someone on a "blacklist," the system can flag or deny entry.
+
+This approach combines machine learning with practical applications in surveillance, authentication, and access control.
 Here´s an example of usage:
 
 ![](https://cloud.githubusercontent.com/assets/896692/24430398/36f0e3f0-13cb-11e7-8258-4d0c9ce1e419.gif)
