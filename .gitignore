@@ -1,3 +1,4 @@
 #personal faces for testing
 auth_faces_knn/theo
 auth_faces_knn/marco
+trained_knn_model.clf
